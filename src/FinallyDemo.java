@@ -20,6 +20,5 @@ public class FinallyDemo {
       
 
       input.close();
-   }
     }
 }
